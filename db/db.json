@@ -5,56 +5,56 @@
       "name": "Tatooine",
       "image": "https://static.wikia.nocookie.net/starwars/images/c/c4/Tatoo_system_TOR.png/revision/latest?cb=20151004180945",
       "population": 200000 ,
-      "native species": "Jawa"
+      "nativeSpecies": "Jawa"
     },
     {
       "id": 2,
       "name": "Naboo",
       "image": "https://static.wikia.nocookie.net/starwars/images/f/f0/Naboo_planet.png/revision/latest?cb=20190210065915",
       "population": 4500000000,
-      "native species": "Gungan"
+      "nativeSpecies": "Gungan"
     },
     {
       "id": 3,
       "name": "Kashyyyk",
       "image": "https://static.wikia.nocookie.net/starwars/images/e/ea/Kashyyyk-SW-MTHC.png/revision/latest?cb=20190605010641",
       "population": 56000000 ,
-      "native species": "Wookie"
+      "nativeSpecies": "Wookie"
     },
     {
       "id": 4,
       "name": "Geonosis",
       "image": "https://static.wikia.nocookie.net/starwars/images/6/6d/Geonosis_AotC.png/revision/latest/scale-to-width-down/1000?cb=20121231120327",
       "population": 100000000000 ,
-      "native species": "Geonosian"
+      "nativeSpecies": "Geonosian"
     },
     {
       "id": 5,
       "name": "Kamino",
       "image": "https://static.wikia.nocookie.net/starwars/images/5/52/Kamino-DB.png/revision/latest?cb=20150920190527",
       "population": 1000000000 ,
-      "native species": "Kaminoan"
+      "nativeSpecies": "Kaminoan"
     },
     {
       "id": 6,
       "name": "Ryloth",
       "image": "https://static.wikia.nocookie.net/starwars/images/9/96/Ryloth-Homecoming.png/revision/latest?cb=20200517155255",
       "population": 1500000000 ,
-      "native species": "Twi'Lek"
+      "nativeSpecies": "Twi'Lek"
     },
     {
       "id": 7,
       "name": "Rodia",
       "image": "https://static.wikia.nocookie.net/starwars/images/c/c3/Rodia_canon.png/revision/latest?cb=20150817013106",
       "population": 1300000000 ,
-      "native species": "Rodian"
+      "nativeSpecies": "Rodian"
     },
     {
       "id": 8,
       "name": "Mandalore",
       "image": "https://static.wikia.nocookie.net/starwars/images/9/9d/MandaloreCh18.png/revision/latest/scale-to-width-down/1000?cb=20230308084552",
       "population": 4000000000 ,
-      "native species": "Mandalorian"
+      "nativeSpecies": "Mandalorian"
     }
   ]
 }

@@ -5,56 +5,64 @@
       "name": "Tatooine",
       "image": "https://static.wikia.nocookie.net/starwars/images/c/c4/Tatoo_system_TOR.png/revision/latest?cb=20151004180945",
       "population": 200000 ,
-      "nativeSpecies": "Jawa"
+      "climate": "arid",
+      "terrain": "desert"
     },
     {
       "id": 2,
       "name": "Naboo",
       "image": "https://static.wikia.nocookie.net/starwars/images/f/f0/Naboo_planet.png/revision/latest?cb=20190210065915",
       "population": 4500000000,
-      "nativeSpecies": "Gungan"
+      "climate": "temperate",
+      "terrain": "grassy hills, swamps, forests, mountains"
     },
     {
       "id": 3,
-      "name": "Kashyyyk",
-      "image": "https://static.wikia.nocookie.net/starwars/images/e/ea/Kashyyyk-SW-MTHC.png/revision/latest?cb=20190605010641",
-      "population": 56000000 ,
-      "nativeSpecies": "Wookie"
+      "name": "Alderaan",
+      "image": "https://static.wikia.nocookie.net/starwars/images/4/4a/Alderaan.jpg/revision/latest?cb=20061211013805",
+      "population": 2000000000 ,
+      "climate": "temperate",
+      "terrain": "grasslands, mountains"
     },
     {
       "id": 4,
-      "name": "Geonosis",
-      "image": "https://static.wikia.nocookie.net/starwars/images/6/6d/Geonosis_AotC.png/revision/latest/scale-to-width-down/1000?cb=20121231120327",
-      "population": 100000000000 ,
-      "nativeSpecies": "Geonosian"
+      "name": "Yavin IV",
+      "image": "https://static.wikia.nocookie.net/starwars/images/d/d4/Yavin-4-SWCT.png/revision/latest?cb=20181015023938",
+      "population": 1000 ,
+      "climate": "temperate, tropical",
+      "terrain": "jungle, rainforests"
     },
     {
       "id": 5,
-      "name": "Kamino",
-      "image": "https://static.wikia.nocookie.net/starwars/images/5/52/Kamino-DB.png/revision/latest?cb=20150920190527",
-      "population": 1000000000 ,
-      "nativeSpecies": "Kaminoan"
+      "name": "Hoth",
+      "image": "https://static.wikia.nocookie.net/starwars/images/1/1d/Hoth_SWCT.png/revision/latest/scale-to-width-down/1000?cb=20160630022322",
+      "population":  "unknown" ,
+      "climate": "frozen",
+      "terrain": "tundra, ice caves, mountain ranges"
     },
     {
       "id": 6,
-      "name": "Ryloth",
-      "image": "https://static.wikia.nocookie.net/starwars/images/9/96/Ryloth-Homecoming.png/revision/latest?cb=20200517155255",
-      "population": 1500000000 ,
-      "nativeSpecies": "Twi'Lek"
+      "name": "Dagobah",
+      "image": "https://static.wikia.nocookie.net/starwars/images/4/48/Dagobah_ep3.jpg/revision/latest?cb=20100122163146",
+      "population": "unknown" ,
+      "climate": "murky",
+      "terrain": "swamp, jungles"
     },
     {
       "id": 7,
-      "name": "Rodia",
-      "image": "https://static.wikia.nocookie.net/starwars/images/c/c3/Rodia_canon.png/revision/latest?cb=20150817013106",
-      "population": 1300000000 ,
-      "nativeSpecies": "Rodian"
+      "name": "Coruscant",
+      "image": "https://static.wikia.nocookie.net/starwars/images/8/84/CoruscantGlobeE1.png/revision/latest?cb=20130123002137",
+      "population": 1000000000000 ,
+      "climate": "temperate",
+      "terrain": "cityscape, mountains"
     },
     {
       "id": 8,
-      "name": "Mandalore",
-      "image": "https://static.wikia.nocookie.net/starwars/images/9/9d/MandaloreCh18.png/revision/latest/scale-to-width-down/1000?cb=20230308084552",
-      "population": 4000000000 ,
-      "nativeSpecies": "Mandalorian"
+      "name": "Kamino",
+      "image": "https://static.wikia.nocookie.net/starwars/images/5/52/Kamino-DB.png/revision/latest?cb=20150920190527",
+      "population": 1000000000 ,
+      "climate": "temperate",
+      "terrain": "ocean"
     }
   ]
 }

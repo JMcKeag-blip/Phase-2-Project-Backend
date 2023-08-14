@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Tatooine",
       "gravity": "1 standard",
-      "population": "200000" ,
+      "population": "200000",
       "climate": "arid",
       "terrain": "desert"
     },
@@ -20,7 +20,7 @@
       "id": 3,
       "name": "Alderaan",
       "gravity": "1 standard",
-      "population": "2000000000" ,
+      "population": "2000000000",
       "climate": "temperate",
       "terrain": "grasslands, mountains"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "name": "Yavin IV",
       "gravity": "1 standard",
-      "population": "1000" ,
+      "population": "1000",
       "climate": "temperate, tropical",
       "terrain": "jungle, rainforests"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "name": "Hoth",
       "gravity": "1.1 standard",
-      "population":  "unknown" ,
+      "population": "unknown",
       "climate": "frozen",
       "terrain": "tundra, ice caves, mountain ranges"
     },
@@ -44,23 +44,15 @@
       "id": 6,
       "name": "Dagobah",
       "gravity": "N/A",
-      "population": "unknown" ,
+      "population": "unknown",
       "climate": "murky",
       "terrain": "swamp, jungles"
-    },
-    {
-      "id": 7,
-      "name": "Coruscant",
-      "gravity": "1 standard",
-      "population": "1000000000000" ,
-      "climate": "temperate",
-      "terrain": "cityscape, mountains"
     },
     {
       "id": 8,
       "name": "Kamino",
       "gravity": "1 standard",
-      "population": "1000000000" ,
+      "population": "1000000000",
       "climate": "temperate",
       "terrain": "ocean"
     }
